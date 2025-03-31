@@ -275,7 +275,7 @@ footer > div{
         letter-spacing: .5px; /* Reduz o espaçamento entre letras do título principal */
     }
     section{
-        padding: 3.5rem; /* Reduz o espaçamento interno das seções */
+        padding: 2rem; /* Reduz o espaçamento interno das seções */
     }
     .fisrt-section {
         align-items: center; /* Centraliza os itens */
