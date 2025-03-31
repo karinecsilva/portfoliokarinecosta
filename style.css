@@ -3,7 +3,6 @@
 *{
     margin: 0%;
     padding: 0%;
-    width: 100%;
 }
 :root {
     --white: #fff;
@@ -247,9 +246,6 @@ footer > div{
 
 /* Estilos para telas menores que 768px */
 @media (max-width: 768px) {
-    *{
-        width: 768px;
-    }
     body {
         max-width: 100%; /* Remove a limitação de largura */
         padding: 0 1rem;/* Adiciona espaçamento interno */
