@@ -112,6 +112,7 @@ section{
     flex-wrap: wrap;
     align-items: center;
     min-height: 650px;
+    margin-top: 1rem;
 }
 
 .fisrt-section > div{
@@ -155,7 +156,7 @@ strong{
 }
 
 .fourth-section{
-    padding: 10%;
+    padding: 15%;
     margin-left: 0%;
     border-radius: 250px 0px 250px 0px;
     
@@ -163,10 +164,10 @@ strong{
 .second-section{
     padding: 10%;
     margin-left: 0%;
-    margin-right: 40%;
+    margin-right: 30%;
     padding: 10%;
     margin-left: 0%;
-    border-radius: 0px 0px 250px 0px;
+    border-radius: 0px 0px 200px 0px;
 }
 
 .second-section ul{
