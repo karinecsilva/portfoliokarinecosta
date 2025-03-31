@@ -33,11 +33,6 @@ header{
     width: 100%;
 }
 
-.img-logo{
-    max-width: 50px;
-    height: 30%;
-}
-
 nav{
     display: flex;
     gap: 2rem;
@@ -68,18 +63,6 @@ nav{
     border-radius: 6px;
     cursor: pointer;
     transition: .4s;
-}
-
-.btn-action{
-    background-color: transparent;
-    border: 1px solid var(--cyan1);
-    color: var(--cyan1);
-}
-
-.btn-action:hover{
-    background-color: var(--dark2);
-    border: 1px solid var(--dark2);
-    color: var(--dark3);
 }
 
 .link-action{
@@ -120,7 +103,7 @@ section{
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    min-width: 300px;
+    max-width: 50%;
 }
 
 h1{
@@ -168,7 +151,7 @@ strong{
     margin-right: 20%;
     padding: 10%;
     margin-left: 0%;
-    border-radius: 0px 0px 160px 0px;
+    border-radius: 0px 0px 100px 0px;
 }
 
 .second-section ul{
